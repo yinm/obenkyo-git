@@ -1,1 +1,1 @@
-# obenkyo-git
+Gitのお勉強リポジトリ
